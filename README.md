@@ -1,2 +1,6 @@
-# ldd2debs
-Dependency finder for binary debian packages
+ldd2debs
+========
+
+Find packaging dependencies for binaries
+
+(also Test/Example for https://github.com/VitexSoftware/BuildImages/)
