@@ -9,7 +9,7 @@ Vcs-Git: https://github.com/VitexSoftware/BuildImages.git
 Vcs-Browser: https://github.com/VitexSoftware/BuildImages
 
 Package: ldd2debs
-Architecture: any
+Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends},
 	${shlibs:Depends},
